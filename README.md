@@ -1,6 +1,6 @@
 
 
-# SolanaWatcher
+# Solana Watcher
 
 **SolanaWatcher** is a simple tool for monitoring Solana wallet activity. It allows you to track transactions and changes for any Solana address, making it useful for portfolio tracking, real-time notifications, and wallet management.
 
